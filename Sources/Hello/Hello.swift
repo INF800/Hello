@@ -1,3 +1,3 @@
-public sctruct Hello {
+public struct Hello {
     public var text = "Hello, World!"
 }
