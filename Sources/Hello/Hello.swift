@@ -1,3 +1,5 @@
-public struct Hello {
-    public var text = "Hello, World!"
+public struct Biggy{
+    public static func printme(){
+        print("Hello world!")
+    }
 }
